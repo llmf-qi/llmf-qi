@@ -2,7 +2,7 @@
 - 👀 I’m interested in making some small interesting  projects.
 - 🌱 I’m currently a CS senior student in USC. I'm learning C++, Java, Python and Swift now.
 - 📫 How to reach me: 
-      Email: mfq0905@gmail.com
+      Email: mfq0905@gmail.com or mengfeiq@usc.edu
       LinkedIn: http://linkedin.com/in/mengfei-qi-a327a6134
 
 <!---
