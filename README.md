@@ -3,7 +3,7 @@
 - 🌱 I’m currently a CS senior student in USC. I'm learning C++, Java, Python and Swift now.
 - 📫 How to reach me: 
       Email: mfq0905@gmail.com or mengfeiq@usc.edu
-      LinkedIn: http://linkedin.com/in/mengfei-qi-a327a6134
+      LinkedIn: www.linkedin.com/in/mengfei-qi
 
 <!---
 llmf-qi/llmf-qi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
